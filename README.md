@@ -20,12 +20,13 @@ You can download it from here: [PSCoverDL](https://github.com/xlenore/pscoverdl 
 PCSX2 has its own cover downloader, upgrade to version **v1.7.3329** or higher.
 - Open PCSX2
 - Tools -> Cover Downloader...
+- Run a web server such as `npx http-server --port 8111`
 - Use this URL for default covers
-  ```python
-  https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/${serial}.jpg
+  ```bash
+  http://127.0.0.1:8111/covers/default/${serial}.jpg
 - or use this one for 3D covers.
-  ```python
-  https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/3d/${serial}.png
+  ```bash
+  http://127.0.0.1:8111/covers/3d/${serial}.png
 - Check "Use Serial Files Name"
 - Click Start
 - Enjoy :)
