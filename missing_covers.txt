@@ -2333,7 +2333,6 @@ SLPS-25877  ---  Busou Renkin - Youkoso Papillon Park e [Best Collection]
 SLPS-25885  ---  Lego Indiana Jones: The Original Adventures [Cancelled]
 SLPS-25890  ---  Guitar Hero III - Legends of Rock [Only Soft]
 SLPS-25893  ---  Zero no Tsukaima - Muma ga Tsumugu Yokaze no Gensoukyoku [PlayStation2 The Best]
-SLPS-25898  ---  Zero no Tsukaima - Maigo no Period to Ikusen no Symphony [St andard Edition]
 SLPS-25903  ---  The Magician's Academy [ebKore]
 SLPS-25911  ---  Hisshou Pachinko Pachi-Slot Kouryaku Series Vol.11 - Shinseiki Evangelion - Magokoro wo, Kimi ni [Special Price Edition]
 SLPS-25924  ---  NBA 2K9
